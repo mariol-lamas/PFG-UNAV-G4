@@ -28,12 +28,14 @@ Los objetivos principales del PFG consisten en:
 9. car: ¿tiene préstamo de coche? (binario: "sí(1)", "no(0)")
 
 **Relacionado con el último contacto de la campaña actual:**
+
 10. contact: tipo de comunicación de contacto (categórico: "desconocido", "teléfono", "celular")
 11. day: último día de contacto del mes (numérico)
 12. month: último mes de contacto del año (categórico: "ene", "feb", "mar", ..., "nov", "dic")
 13. duration: duración del último contacto, en segundos (numérico)
 
 **Otros atributos:**
+
 14. campaign: número de contactos realizados durante esta campaña y para este cliente (numérico, incluye el último contacto)
 15. pdays: número de días que pasaron después de que el cliente fue contactado por última vez en una campaña anterior (numérico, -1 significa que el cliente no fue contactado anteriormente)
 16. previous: número de contactos realizados antes de esta campaña y para este cliente (numérico)
