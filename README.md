@@ -1,6 +1,6 @@
-# PFG-UNAV-G4
+# **PFG-UNAV-G4**
 ---
-## Objetivos de PFG
+## **Objetivos de PFG**
 Los objetivos principales del PFG consisten en:
 
 •Identificar los objetivos del proyecto a partir de un reto de predicción por clasificación definido sobre una base de datos de campañas de marketing de una institución bancaria.
@@ -15,7 +15,7 @@ Los objetivos principales del PFG consisten en:
 
 •Defender el proyecto en las sesiones y elaborar una memoria final
 
-## Información de los datos iniciales
+## **Información de los datos iniciales**
 
 1. age (numérico)
 2.  job: tipo de trabajo (categórico: "administrativo", "desconocido", "desempleado", "gerencia", "ama de casa", "emprendedor", "estudiante", "trabajador manual", "autónomo", "jubilado", "técnico", "servicios")
@@ -42,7 +42,8 @@ Los objetivos principales del PFG consisten en:
 17. poutcome: resultado de la campaña de marketing anterior (categórico: "desconocido", "otro", "fracaso", "éxito")
 18. subscribed: ¿el cliente se ha suscrito a un depósito a plazo? (binario: "sí", "no")
 
-#Colaboradores
+# **Colaboradores**
+---
 - Itziar Campo Juarros
 
 - Mario Lamas Herrera
