@@ -17,9 +17,9 @@ Los objetivos principales del PFG consisten en:
 
 ## Información de los datos iniciales
 
-1 - age (numérico)
-2 - job: tipo de trabajo (categórico: "administrativo", "desconocido", "desempleado", "gerencia", "ama de casa", "emprendedor", "estudiante", "trabajador manual", "autónomo", "jubilado", "técnico", "servicios")
-3 - marital: estado civil (categórico: "casado", "divorciado", "soltero"; nota: "divorciado" significa divorciado o viudo)
+1. - age (numérico)
+2. - job: tipo de trabajo (categórico: "administrativo", "desconocido", "desempleado", "gerencia", "ama de casa", "emprendedor", "estudiante", "trabajador manual", "autónomo", "jubilado", "técnico", "servicios")
+3. - marital: estado civil (categórico: "casado", "divorciado", "soltero"; nota: "divorciado" significa divorciado o viudo)
 4 - education (categórico: "desconocido", "secundaria", "primaria", "terciaria")
 5 - default: ¿tiene crédito en mora? (binario: "sí", "no")
 6 - balance: saldo promedio anual, en euros (numérico)
